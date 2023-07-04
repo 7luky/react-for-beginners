@@ -8,4 +8,5 @@ function Button({ text }) {
 Button.propTypes = {
   text: PropTypes.string.isRequired,
 };
+
 export default Button;
